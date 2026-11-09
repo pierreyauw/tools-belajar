@@ -1,0 +1,602 @@
+[
+    {
+        "nama": "Pulpen",
+        "id": 1,
+        "stock": 100,
+        "harga": 3000.0
+    },
+    {
+        "nama": "Pensil 2B",
+        "id": 2,
+        "stock": 100,
+        "harga": 2500.0
+    },
+    {
+        "nama": "Penghapus",
+        "id": 3,
+        "stock": 100,
+        "harga": 2000.0
+    },
+    {
+        "nama": "Penggaris 30 cm",
+        "id": 4,
+        "stock": 100,
+        "harga": 4000.0
+    },
+    {
+        "nama": "Buku Tulis",
+        "id": 5,
+        "stock": 100,
+        "harga": 5000.0
+    },
+    {
+        "nama": "Buku Gambar",
+        "id": 6,
+        "stock": 100,
+        "harga": 7000.0
+    },
+    {
+        "nama": "Spidol",
+        "id": 7,
+        "stock": 100,
+        "harga": 5000.0
+    },
+    {
+        "nama": "Stabilo",
+        "id": 8,
+        "stock": 100,
+        "harga": 6000.0
+    },
+    {
+        "nama": "Pensil Warna",
+        "id": 9,
+        "stock": 100,
+        "harga": 15000.0
+    },
+    {
+        "nama": "Krayon",
+        "id": 10,
+        "stock": 100,
+        "harga": 12000.0
+    },
+    {
+        "nama": "Rautan Pensil",
+        "id": 11,
+        "stock": 100,
+        "harga": 3000.0
+    },
+    {
+        "nama": "Tip-Ex",
+        "id": 12,
+        "stock": 100,
+        "harga": 5000.0
+    },
+    {
+        "nama": "Gunting",
+        "id": 13,
+        "stock": 100,
+        "harga": 8000.0
+    },
+    {
+        "nama": "Lem Kertas",
+        "id": 14,
+        "stock": 100,
+        "harga": 4000.0
+    },
+    {
+        "nama": "Lem Stik",
+        "id": 15,
+        "stock": 100,
+        "harga": 6000.0
+    },
+    {
+        "nama": "Kertas HVS",
+        "id": 16,
+        "stock": 100,
+        "harga": 50000.0
+    },
+    {
+        "nama": "Kertas Karton",
+        "id": 17,
+        "stock": 100,
+        "harga": 5000.0
+    },
+    {
+        "nama": "Map Plastik",
+        "id": 18,
+        "stock": 100,
+        "harga": 3000.0
+    },
+    {
+        "nama": "Map Kertas",
+        "id": 19,
+        "stock": 100,
+        "harga": 2500.0
+    },
+    {
+        "nama": "Amplop",
+        "id": 20,
+        "stock": 100,
+        "harga": 2000.0
+    },
+    {
+        "nama": "Stapler",
+        "id": 21,
+        "stock": 100,
+        "harga": 12000.0
+    },
+    {
+        "nama": "Isi Staples",
+        "id": 22,
+        "stock": 100,
+        "harga": 3000.0
+    },
+    {
+        "nama": "Paper Clip",
+        "id": 23,
+        "stock": 100,
+        "harga": 2500.0
+    },
+    {
+        "nama": "Binder Clip",
+        "id": 24,
+        "stock": 100,
+        "harga": 4000.0
+    },
+    {
+        "nama": "Lakban",
+        "id": 25,
+        "stock": 100,
+        "harga": 7000.0
+    },
+    {
+        "nama": "Selotip",
+        "id": 26,
+        "stock": 100,
+        "harga": 3000.0
+    },
+    {
+        "nama": "Spidol Whiteboard",
+        "id": 27,
+        "stock": 100,
+        "harga": 6000.0
+    },
+    {
+        "nama": "Penghapus Papan Tulis",
+        "id": 28,
+        "stock": 100,
+        "harga": 5000.0
+    },
+    {
+        "nama": "Papan Tulis Kecil",
+        "id": 29,
+        "stock": 100,
+        "harga": 45000.0
+    },
+    {
+        "nama": "Buku Agenda",
+        "id": 30,
+        "stock": 100,
+        "harga": 18000.0
+    },
+    {
+        "nama": "Sticky Notes",
+        "id": 31,
+        "stock": 100,
+        "harga": 7000.0
+    },
+    {
+        "nama": "Kalkulator",
+        "id": 32,
+        "stock": 100,
+        "harga": 35000.0
+    },
+    {
+        "nama": "Tempat Pensil",
+        "id": 33,
+        "stock": 100,
+        "harga": 12000.0
+    },
+    {
+        "nama": "Sampul Buku",
+        "id": 34,
+        "stock": 100,
+        "harga": 3000.0
+    },
+    {
+        "nama": "Kertas Origami",
+        "id": 35,
+        "stock": 100,
+        "harga": 8000.0
+    },
+    {
+        "nama": "Meja Kerja",
+        "id": 36,
+        "stock": 95,
+        "harga": 450000.0
+    },
+    {
+        "nama": "Kursi Kerja",
+        "id": 37,
+        "stock": 95,
+        "harga": 350000.0
+    },
+    {
+        "nama": "Meja Makan",
+        "id": 38,
+        "stock": 100,
+        "harga": 750000.0
+    },
+    {
+        "nama": "Kursi Makan",
+        "id": 39,
+        "stock": 100,
+        "harga": 200000.0
+    },
+    {
+        "nama": "Lemari Pakaian",
+        "id": 40,
+        "stock": 100,
+        "harga": 1500000.0
+    },
+    {
+        "nama": "Rak Buku",
+        "id": 41,
+        "stock": 100,
+        "harga": 650000.0
+    },
+    {
+        "nama": "Rak Sepatu",
+        "id": 42,
+        "stock": 100,
+        "harga": 250000.0
+    },
+    {
+        "nama": "Meja Tamu",
+        "id": 43,
+        "stock": 100,
+        "harga": 550000.0
+    },
+    {
+        "nama": "Sofa Dua Dudukan",
+        "id": 44,
+        "stock": 95,
+        "harga": 1800000.0
+    },
+    {
+        "nama": "Tempat Tidur Single",
+        "id": 45,
+        "stock": 100,
+        "harga": 1200000.0
+    },
+    {
+        "nama": "Tempat Tidur Double",
+        "id": 46,
+        "stock": 100,
+        "harga": 1800000.0
+    },
+    {
+        "nama": "Lemari Dapur",
+        "id": 47,
+        "stock": 100,
+        "harga": 900000.0
+    },
+    {
+        "nama": "Meja Belajar",
+        "id": 48,
+        "stock": 100,
+        "harga": 400000.0
+    },
+    {
+        "nama": "Kursi Plastik",
+        "id": 49,
+        "stock": 100,
+        "harga": 50000.0
+    },
+    {
+        "nama": "Kursi Lipat",
+        "id": 50,
+        "stock": 100,
+        "harga": 85000.0
+    },
+    {
+        "nama": "Bangku Kayu",
+        "id": 51,
+        "stock": 100,
+        "harga": 120000.0
+    },
+    {
+        "nama": "Lemari Arsip",
+        "id": 52,
+        "stock": 100,
+        "harga": 1100000.0
+    },
+    {
+        "nama": "Nakas",
+        "id": 53,
+        "stock": 100,
+        "harga": 300000.0
+    },
+    {
+        "nama": "Meja Rias",
+        "id": 54,
+        "stock": 100,
+        "harga": 850000.0
+    },
+    {
+        "nama": "Cermin Berdiri",
+        "id": 55,
+        "stock": 100,
+        "harga": 350000.0
+    },
+    {
+        "nama": "Rak Dinding",
+        "id": 56,
+        "stock": 100,
+        "harga": 150000.0
+    },
+    {
+        "nama": "Lemari Pajangan",
+        "id": 57,
+        "stock": 100,
+        "harga": 1300000.0
+    },
+    {
+        "nama": "Meja TV",
+        "id": 58,
+        "stock": 100,
+        "harga": 600000.0
+    },
+    {
+        "nama": "Sofa Tiga Dudukan",
+        "id": 59,
+        "stock": 97,
+        "harga": 2500000.0
+    },
+    {
+        "nama": "Kursi Bar",
+        "id": 60,
+        "stock": 100,
+        "harga": 250000.0
+    },
+    {
+        "nama": "Meja Lipat",
+        "id": 61,
+        "stock": 100,
+        "harga": 180000.0
+    },
+    {
+        "nama": "Lemari Plastik",
+        "id": 62,
+        "stock": 100,
+        "harga": 300000.0
+    },
+    {
+        "nama": "Rak Serbaguna",
+        "id": 63,
+        "stock": 100,
+        "harga": 220000.0
+    },
+    {
+        "nama": "Meja Komputer",
+        "id": 64,
+        "stock": 100,
+        "harga": 500000.0
+    },
+    {
+        "nama": "Kursi Santai",
+        "id": 65,
+        "stock": 100,
+        "harga": 450000.0
+    },
+    {
+        "nama": "Laci Penyimpanan",
+        "id": 66,
+        "stock": 100,
+        "harga": 280000.0
+    },
+    {
+        "nama": "Meja Sudut",
+        "id": 67,
+        "stock": 100,
+        "harga": 320000.0
+    },
+    {
+        "nama": "Rak Piring",
+        "id": 68,
+        "stock": 100,
+        "harga": 180000.0
+    },
+    {
+        "nama": "Lemari Kaca",
+        "id": 69,
+        "stock": 100,
+        "harga": 950000.0
+    },
+    {
+        "nama": "Partisi Ruangan",
+        "id": 70,
+        "stock": 100,
+        "harga": 700000.0
+    },
+    {
+        "nama": "Sapu Lantai",
+        "id": 71,
+        "stock": 100,
+        "harga": 15000.0
+    },
+    {
+        "nama": "Sapu Lidi",
+        "id": 72,
+        "stock": 100,
+        "harga": 12000.0
+    },
+    {
+        "nama": "Pel Lantai",
+        "id": 73,
+        "stock": 100,
+        "harga": 25000.0
+    },
+    {
+        "nama": "Ember Plastik",
+        "id": 74,
+        "stock": 100,
+        "harga": 18000.0
+    },
+    {
+        "nama": "Gayung",
+        "id": 75,
+        "stock": 100,
+        "harga": 8000.0
+    },
+    {
+        "nama": "Tempat Sampah",
+        "id": 76,
+        "stock": 100,
+        "harga": 25000.0
+    },
+    {
+        "nama": "Keset Kaki",
+        "id": 77,
+        "stock": 100,
+        "harga": 20000.0
+    },
+    {
+        "nama": "Lap Microfiber",
+        "id": 78,
+        "stock": 100,
+        "harga": 12000.0
+    },
+    {
+        "nama": "Kain Pel",
+        "id": 79,
+        "stock": 100,
+        "harga": 15000.0
+    },
+    {
+        "nama": "Sikat Lantai",
+        "id": 80,
+        "stock": 100,
+        "harga": 10000.0
+    },
+    {
+        "nama": "Sikat Kamar Mandi",
+        "id": 81,
+        "stock": 100,
+        "harga": 12000.0
+    },
+    {
+        "nama": "Tempat Sabun",
+        "id": 82,
+        "stock": 100,
+        "harga": 10000.0
+    },
+    {
+        "nama": "Tempat Tisu",
+        "id": 83,
+        "stock": 100,
+        "harga": 18000.0
+    },
+    {
+        "nama": "Keranjang Pakaian",
+        "id": 84,
+        "stock": 100,
+        "harga": 35000.0
+    },
+    {
+        "nama": "Jemuran Pakaian",
+        "id": 85,
+        "stock": 100,
+        "harga": 120000.0
+    },
+    {
+        "nama": "Hanger Plastik",
+        "id": 86,
+        "stock": 100,
+        "harga": 15000.0
+    },
+    {
+        "nama": "Hanger Kayu",
+        "id": 87,
+        "stock": 100,
+        "harga": 30000.0
+    },
+    {
+        "nama": "Setrika",
+        "id": 88,
+        "stock": 100,
+        "harga": 180000.0
+    },
+    {
+        "nama": "Panci",
+        "id": 89,
+        "stock": 100,
+        "harga": 85000.0
+    },
+    {
+        "nama": "Wajan",
+        "id": 90,
+        "stock": 100,
+        "harga": 75000.0
+    },
+    {
+        "nama": "Spatula",
+        "id": 91,
+        "stock": 100,
+        "harga": 15000.0
+    },
+    {
+        "nama": "Saringan",
+        "id": 92,
+        "stock": 100,
+        "harga": 12000.0
+    },
+    {
+        "nama": "Talenan",
+        "id": 93,
+        "stock": 100,
+        "harga": 20000.0
+    },
+    {
+        "nama": "Pisau Dapur",
+        "id": 94,
+        "stock": 100,
+        "harga": 35000.0
+    },
+    {
+        "nama": "Piring",
+        "id": 95,
+        "stock": 100,
+        "harga": 10000.0
+    },
+    {
+        "nama": "Mangkuk",
+        "id": 96,
+        "stock": 100,
+        "harga": 8000.0
+    },
+    {
+        "nama": "Gelas",
+        "id": 97,
+        "stock": 100,
+        "harga": 7000.0
+    },
+    {
+        "nama": "Sendok",
+        "id": 98,
+        "stock": 90,
+        "harga": 5000.0
+    },
+    {
+        "nama": "Garpu",
+        "id": 99,
+        "stock": 100,
+        "harga": 5000.0
+    },
+    {
+        "nama": "Botol Minum",
+        "id": 100,
+        "stock": 100,
+        "harga": 25000.0
+    }
+]

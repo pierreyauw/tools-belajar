@@ -1,0 +1,63 @@
+[
+    {
+        "idtrans": "TRX-1",
+        "barang": [
+            {
+                "nama": "Sendok",
+                "jumlah": 10,
+                "harga": 5000.0
+            }
+        ],
+        "diskon": 0,
+        "nominal_diskon": 0.0,
+        "total_belanja": 50000.0,
+        "total_akhir": 50000.0
+    },
+    {
+        "idtrans": "TRX-3",
+        "barang": [
+            {
+                "nama": "Kursi Kerja",
+                "jumlah": 5,
+                "harga": 350000.0
+            },
+            {
+                "nama": "Meja Kerja",
+                "jumlah": 5,
+                "harga": 450000.0
+            }
+        ],
+        "diskon": 10.0,
+        "nominal_diskon": 0.0,
+        "total_belanja": 4000000.0,
+        "total_akhir": 4000000.0
+    },
+    {
+        "idtrans": "TRX-1",
+        "barang": [
+            {
+                "nama": "Sofa Tiga Dudukan",
+                "jumlah": 3,
+                "harga": 2500000.0
+            }
+        ],
+        "diskon": 10.0,
+        "nominal_diskon": 750000.0,
+        "total_belanja": 7500000.0,
+        "total_akhir": 6750000.0
+    },
+    {
+        "idtrans": "TRX-1",
+        "barang": [
+            {
+                "nama": "Sofa Dua Dudukan",
+                "jumlah": 5,
+                "harga": 1800000.0
+            }
+        ],
+        "diskon": 10.0,
+        "nominal_diskon": 900000.0,
+        "total_belanja": 9000000.0,
+        "total_akhir": 8100000.0
+    }
+]
